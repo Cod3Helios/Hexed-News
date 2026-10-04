@@ -374,11 +374,6 @@ button, input, select, textarea {
     font-size: 9px;
 }
 
-.story-meta span {
-    padding-inline: 5px;
-    color: var(--coral);
-}
-
 .story-card h3 {
     margin: 9px 0 7px;
     font: 700 21px/1.25 var(--sans);
